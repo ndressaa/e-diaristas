@@ -17,7 +17,7 @@ interface UserInformationProps {
 const UserInformation: React.FC<UserInformationProps> = (props) => {
   return (
     <UserInformationContainer>
-      <AvatarStyled src={props.picture}>{name[0]}</AvatarStyled>
+      <AvatarStyled src={props.picture}>{props.name[0]}</AvatarStyled>
       <UserName>{props.name}</UserName>
       <RatingStyled readOnly value={props.rating}/>
       <UserDescription>{props.description}</UserDescription>
