@@ -1,7 +1,7 @@
 <p align="center">
   <img height="60" src="https://e-diaristas-web.vercel.app/img/logos/logo.svg">
   <br><br><br>
-  <img height="700" src="https://github.com/ndressaa/e-diaristas/blob/main/mockup/mockup_desktop.png">
+  <img width="800" src="https://github.com/ndressaa/e-diaristas/blob/main/mockup/mockup_desktop.png">
 </p>
 
 <br>
